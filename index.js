@@ -4,7 +4,7 @@ let tree = { name: 'Philip Samuel Rust', b: 1976, loc: 'Bellingham', parents: [
         { name: 'Samuel Philip Rust', b: 1903, short_notes: 'Fire Chief at Paine Field', notes: 'Served in the Navy and worked for the US government in Turkey.', parents: [
           { name: 'Nicholas J. Rust', b: 1873, d: 1967, notes: 'Bellingham Police Chief. Lost tips of fingers in sawmill. We have his billy club. Was stopped after running a stop light on Holly St. When asked if he hadn\'t seen the light, answered: "Sonny, I PUT that light there!"', parents: [
             { name: 'Philip Rust', short_notes: 'Probably German origin' },
-            { name: 'Ellen' }
+            { name: 'Ellen Falk' }
           ]},
           { name: 'Maud Humphries', parents: [
             { name: 'Samuel Humphries', short_notes: 'Lake Samish settlers', notes: 'Original settlers on Lake Samish.' },
